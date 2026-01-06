@@ -112,7 +112,7 @@ end
 local Window = Compkiller.new({
     Name = "Dragon UI",
     Keybind = Enum.KeyCode.LeftAlt,
-    Logo = "rbxassetid://120245531583106",
+    Logo = "",
     TextSize = 15,
 })
 
