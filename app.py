@@ -20,7 +20,7 @@ def _get_openid_headers(base_url):
         "Content-Type": "application/json",
         "Cookie": "source=pc; region=PK; language=en; "
                   "mspid2=4b56e8f65e7a8454c2dd9e9f1eaff5cc; "
-                  "datadome=465CY_MInLmrrYVl4rCZo4ltk_j~~fJgn770GVVBXsV~EoF_BnK9xNJwot4cspq7VSzSa77ZwARm_6IpT8twIt941vFi0dR0oAZcJikHRWCoApFKF9eeI8TREH3r0IAl; "
+                  "datadome=uKkK6ssa3lEZss4hahS~KQ~8l~d~kYC9wxn357q9oGBAvbZu2sOo84l1MvIFGyKaqrPA7aI_6AiUdmNxo_NzCCyKPS5MaDFSRyM696ZoQJ_cvkoLbqd6xF8Wok6Wb~LF"
                   "session_key=x0jshjilr25wwgg993pvlb3wnlwcudct",
         "Host": host,
         "Origin": base_url,
